@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641643708617",
+    "project_id": "restaurantbenin-63a4e",
+    "storage_bucket": "restaurantbenin-63a4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641643708617:android:ede88cba31492eb7688d18",
+        "android_client_info": {
+          "package_name": "com.example.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641643708617-u4abr9nos3en8ed24clt1i54qng0gqju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvUomfM3TmkXw5NcMVJwIAvPknPTnUQUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641643708617-u4abr9nos3en8ed24clt1i54qng0gqju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
